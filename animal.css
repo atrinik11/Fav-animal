@@ -1,0 +1,16 @@
+title{
+    font-size:20px;
+    font-family: 'Ultra', serif;
+    
+}
+
+p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align:justify;
+}
+
+.fixed{
+    float:left;
+    margin-right:20px;
+    margin-left:20px;
+}
